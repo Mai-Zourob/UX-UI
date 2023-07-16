@@ -1,20 +1,24 @@
-#✅#UX-UI
+# **✅UX-UI**
 
-##🌟 Table of contents
+## 🌟Table of contents
+
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-##🌟 General info
+## 🌟General info
 
 **👩‍💻This readmy is a sample of  my UI/UX  projects**
 	
 ## 🌟Technologies
-Project is created with:
+
+### Project is created with:
+
 * Figma
 * Palsamiq wireframes
 	
-##🌟 project link
+## 🌟project link 
+
  1. [apple & banana Landing Page](https://www.figma.com/file/tMrgAYintlX6qguwUMafXq/landing-page?type=design&node-id=0-1&mode=design&t=c8bg5mV2FeNIZA3y-0)
  2.[Desert recipe website](https://www.figma.com/file/25dholRXCirBVX1K9SRvrq/Desert-recip?type=design&node-id=0-1&mode=design&t=IiowEk4Novf8MRFk-0)
  3. [virtual event platform](https://www.figma.com/file/ETszZA1vUjo4QAorOJZyS9/virtual-event-platform?type=design&node-id=0-1&mode=design&t=AQW5OpHtGX1yZMTQ-0)
