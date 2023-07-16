@@ -1,4 +1,4 @@
-#✅ UX-UI
+#✅#UX-UI
 
 ##🌟 Table of contents
 * [General info](#general-info)
@@ -6,6 +6,7 @@
 * [Setup](#setup)
 
 ##🌟 General info
+
 **👩‍💻This readmy is a sample of  my UI/UX  projects**
 	
 ## 🌟Technologies
