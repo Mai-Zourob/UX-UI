@@ -17,7 +17,7 @@
 * Figma
 * Palsamiq wireframes
 	
-## 🌟projectlink 
+## 🌟project link 
 
  1. [apple & banana Landing Page](https://www.figma.com/file/tMrgAYintlX6qguwUMafXq/landing-page?type=design&node-id=0-1&mode=design&t=c8bg5mV2FeNIZA3y-0)
     
