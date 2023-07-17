@@ -4,7 +4,7 @@
 
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [project link ](#project link )
+* [project link ](#projectlink )
 
 ## 🌟General info
 
